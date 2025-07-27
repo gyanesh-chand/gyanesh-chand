@@ -1,14 +1,11 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Gyanesh Chand</h1>
-<h3 align="center">Aspiring Cybersecurity Professional | B.Tech CSE Student | Ethical Hacking Enthusiast</h3>
+<!-- MATRIX STYLE ANIMATED BANNER -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=100&lines=01001000+01100101+01101100+01101100+01101111+00100001;$+ACCESSING+SECURE+SERVER+.+.+.;$+TERMINAL+CONNECTED+.+.+.;$+IDENTITY+VERIFIED:+CYBERAJJU;$+WELCOME+TO+Ajju'S+CYBERSECURITY+LABORATORY;$+INITIALIZING+SECURE+SESSION+.+.+." alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gyaneshchand&label=Profile%20views&color=0e75b6&style=flat" alt="gyaneshchand" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F9FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Cybersecurity+Enthusiast+%7C+CTF+Player;Learning+Ethical+Hacking+%26+Pentesting;TryHackMe+Explorer+%7C+Bug+Bounty+Beginner;"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=PENETRATION+TESTER;BUG+HUNTER;CTF+PLAYER;SECURITY+RESEARCHER;ETHICAL+HACKER" alt="Hacker Roles" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asifsaeed21&label=Profile%20views&color=0e75b6&style=flat" alt="asifsaeed21" />
