@@ -41,7 +41,7 @@
     <li> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" width="25"> <b>Exploring</b>: <i>R & Python programming, PHP, Advanced Penetration Testing</i> </li>
     <li> <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="25"> <b>Looking to collaborate on</b>: <i>Cybersecurity projects, CTF teams</i> </li>
     <li> <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="20"> <b>Constantly hunting for vulnerabilities in web applications</b> </li>
-    <li> <img src="https://media.giphy.com/media/KxlbRn0HuTW7gDgvVK/giphy.gif" width="20"> <b>Reach me at</b>: <i>cybertech3856@gmail.com</i> </li>
+    <li> <img src="https://media.giphy.com/media/KxlbRn0HuTW7gDgvVK/giphy.gif" width="20"> <b>Reach me at</b>: <i>51chandgyanesh@gmail.com</i> </li>
     <li> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhubGJpOGw5dDZ1Y3F5cWJjbzVzOTVlNHhjbjYyazY0dDkwYWNoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uIkGU8VIRQJsUKU8s/giphy.gif" width="25"> <b>Fun fact</b>: <i>In a world of 1s and 0s, I'm the prankster of the matrix.</i> </li>
   </ul>
 </p>
