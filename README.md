@@ -7,12 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=PENETRATION+TESTER;BUG+HUNTER;CTF+PLAYER;SECURITY+RESEARCHER;ETHICAL+HACKER" alt="Hacker Roles" />
 </div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=cyberajju&label=Profile%20views&color=00ff00&style=flat-square&logo=ghost" alt="cyberajju" />
-  <a href="https://www.youtube.com/@cybertechajju"><img src="https://img.shields.io/youtube/channel/subscribers/UCiKcQN5fu7Cl9zNnk84yNhA?style=flat-square&logo=youtube&label=YouTube&color=FF0000" alt="YouTube"/></a>
-  <a href="https://twitter.com/Ajjukumar3856"><img src="https://img.shields.io/twitter/follow/Ajjukumar3856?logo=twitter&style=flat-square&color=00ff00" alt="Ajjukumar3856" /></a>
-</p>
-
 <!-- HACKER ATTITUDE QUOTE WITH TEXT ANIMATION -->
 <div align="center">
   <table border="0" align="center">
