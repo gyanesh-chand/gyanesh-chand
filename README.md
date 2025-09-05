@@ -41,7 +41,7 @@
     <li> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" width="25"> <b>Exploring</b>: <i>R & Python programming, PHP, Advanced Penetration Testing</i> </li>
     <li> <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="25"> <b>Looking to collaborate on</b>: <i>Cybersecurity projects, CTF teams</i> </li>
     <li> <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="20"> <b>Constantly hunting for vulnerabilities in web applications</b> </li>
-    <li> <img src="https://media.giphy.com/media/KxlbRn0HuTW7gDgvVK/giphy.gif" width="20"> <b>Reach me at</b>: <i>51chandgyanesh@gmail.com</i> </li>
+    <li> <img src="https://media.giphy.com/media/KxlbRn0HuTW7gDgvVK/giphy.gif" width="20"> <b>Reach me at</b>: <i>gyaneshchand57@gmail.com</i> </li>
     <li> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhubGJpOGw5dDZ1Y3F5cWJjbzVzOTVlNHhjbjYyazY0dDkwYWNoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uIkGU8VIRQJsUKU8s/giphy.gif" width="25"> <b>Fun fact</b>: <i>In a world of 1s and 0s, I'm the prankster of the matrix.</i> </li>
   </ul>
 </p>
@@ -59,19 +59,14 @@
   <a href="#"><img src="https://img.shields.io/badge/CTF_Player-7952B3?style=for-the-badge&logo=hackaday&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/OSINT-00979D?style=for-the-badge&logo=openbugbounty&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Bug_Bounty-F05032?style=for-the-badge&logo=bugcrowd&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Malware_Analysis-512BD4?style=for-the-badge&logo=virustotal&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Network_Security-61DAFB?style=for-the-badge&logo=cisco&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SIEM-4EAA25?style=for-the-badge&logo=splunk&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Threat_Intelligence-764ABC?style=for-the-badge&logo=threatconnect&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Digital_Forensics-FF9900?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Web_App_Security-6771E5?style=for-the-badge&logo=owasp&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Reverse_Engineering-525252?style=for-the-badge&logo=ghidra&logoColor=white" /></a>
 </p>
 
 <!-- PROGRAMMING LANGUAGES -->
 <h3 align="center">💻 Programming Languages & Tools 💻</h3>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,bash,php,js,r,c,ruby,powershell&perline=8" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,bash,php,js,c,powershell&perline=8" /></a>
 </p>
 
 <!-- TOOLS & TECHNOLOGIES -->
@@ -108,16 +103,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanesh-chand&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-
----
-
-## 🐍 Snake Game Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
