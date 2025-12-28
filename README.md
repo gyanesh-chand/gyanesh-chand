@@ -7,29 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=PENETRATION+TESTER;BUG+HUNTER;CTF+PLAYER;SECURITY+RESEARCHER;ETHICAL+HACKER" alt="Hacker Roles" />
 </div>
 
-<!-- HACKER ATTITUDE QUOTE WITH TEXT ANIMATION -->
-<div align="center">
-  <table border="0" align="center">
-    <tr border="0">
-      <td width="50%" align="center">
-        <div align="center">
-          <h3>
-            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">I don't need sleep, I need answers.</span></p>
-            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">The quieter you become, the more you are able to hear.</span></p>
-            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">Real hackers don't wear hoodies, they wear invisibility.</span></p>
-            <p><span style="color: #ff0000;">[</span> <span style="color: #00ff00;">$</span> <span style="color: #ff0000;">]</span> <span style="color: #00ff00;">Hack the planet!</span></p>
-          </h3>
-        </div>
-      </td>
-      <td width="50%" align="center">
-        <img align="center" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnk1eXgwZTNwcnAwYjlvaXpzM3hvZnExbnJuYjFsMXYxZnlmam95NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kPVTbiTORIopy/giphy.gif" alt="Hacker Animation"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<hr/>
-
 <!-- ABOUT ME SECTION WITH ENHANCED ICONS -->
 <h1 align="center">👨‍💻 About Me</h1>
 
