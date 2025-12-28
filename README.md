@@ -7,23 +7,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Matrix+Code+NFI&weight=700&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=PENETRATION+TESTER;BUG+HUNTER;CTF+PLAYER;SECURITY+RESEARCHER;ETHICAL+HACKER" alt="Hacker Roles" />
 </div>
 
+
 <!-- ABOUT ME SECTION WITH ENHANCED ICONS -->
 <h1 align="center">👨‍💻 About Me</h1>
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/3e4ba60aaf08d8e8b8b91661ac3c263e3b0bb8ded371128dc3fe9b84b5464e42/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" width="350" height="220" align="right" />
   <ul>
-    <li> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>Passionate cybersecurity enthusiast with a strong focus on Web Application Security & Vulnerability Assessment</b> </li>
+    <li> 🛡️ <b>Passionate cybersecurity enthusiast with a strong focus on Web Application Security & Vulnerability Assessment</b> </li>
     <li> 🐞 Active bug bounty hunter & CTF player, identifying real-world vulnerabilities like XSS and injection flaws</li>
-    <li> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" width="25"> <b>Exploring</b>: <i>R & Python programming, PHP, Advanced Penetration Testing</i> </li>
+    <li> 🔧 Hands-on experience with Burp Suite, Nmap, Metasploit, Wireshark, and Linux-based security tooling</li>
+    <li> 🚀 Currently building Vulnerability Scanner using Python – an advanced Port and Vulnerability scanning tool</li>   
     <li> <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="25"> <b>Looking to collaborate on</b>: <i>Cybersecurity projects, CTF teams</i> </li>
     <li> <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="20"> <b>Constantly hunting for vulnerabilities in web applications</b> </li>
-    <li> <img src="https://media.giphy.com/media/KxlbRn0HuTW7gDgvVK/giphy.gif" width="20"> <b>Reach me at</b>: <i>gyaneshchand57@gmail.com</i> </li>
-    <li> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhubGJpOGw5dDZ1Y3F5cWJjbzVzOTVlNHhjbjYyazY0dDkwYWNoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uIkGU8VIRQJsUKU8s/giphy.gif" width="25"> <b>Fun fact</b>: <i>In a world of 1s and 0s, I'm the prankster of the matrix.</i> </li>
+    <li> ⚡ <b>Fun fact</b>: <i>I break things to make systems more secure.</i> </li>
   </ul>
 </p>
 
 <hr/>
+
+
 
 <!-- SKILLS SECTION -->
 <h1 align="center">⚡ Technical Arsenal ⚡</h1>
