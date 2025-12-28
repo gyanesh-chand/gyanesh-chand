@@ -44,7 +44,7 @@
 </p>
 
 <!-- PROGRAMMING LANGUAGES -->
-<h3 align="center">💻 Programming Languages & Tools 💻</h3>
+<h3 align="center">💻 Programming Languages 💻</h3>
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=python,bash" /></a>
 </p>
