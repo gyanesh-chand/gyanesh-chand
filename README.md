@@ -13,8 +13,8 @@
 <p align="center">
   <img src="https://camo.githubusercontent.com/3e4ba60aaf08d8e8b8b91661ac3c263e3b0bb8ded371128dc3fe9b84b5464e42/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" width="350" height="220" align="right" />
   <ul>
-    <li> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>Passionate Indian cyber sentinel, bug hunter 🐞, and CTF player</b> </li>
-    <li> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> <b>Currently working on</b>: <i>ScanVortex - Advanced Network Security Tool</i> </li>
+    <li> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>Passionate cybersecurity enthusiast with a strong focus on Web Application Security & Vulnerability Assessment</b> </li>
+    <li> 🐞 Active bug bounty hunter & CTF player, identifying real-world vulnerabilities like XSS and injection flaws</li>
     <li> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" width="25"> <b>Exploring</b>: <i>R & Python programming, PHP, Advanced Penetration Testing</i> </li>
     <li> <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="25"> <b>Looking to collaborate on</b>: <i>Cybersecurity projects, CTF teams</i> </li>
     <li> <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="20"> <b>Constantly hunting for vulnerabilities in web applications</b> </li>
