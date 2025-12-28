@@ -46,7 +46,7 @@
 <!-- PROGRAMMING LANGUAGES -->
 <h3 align="center">💻 Programming Languages & Tools 💻</h3>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,bash,php,js,c,powershell&perline=8" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,bash" /></a>
 </p>
 
 <!-- TOOLS & TECHNOLOGIES -->
@@ -67,23 +67,6 @@
 
 <hr/>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gyanesh-chand&theme=onestar&no-bg=true&margin-w=15" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanesh-chand&show_icons=true&theme=tokyonight&hide_border=true" alt="Gyanesh's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanesh-chand&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -97,25 +80,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.+-+Steve+Jobs" />
-</p>
-
----
-## 🌈 Fun Facts
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=I+code+for+fun+and+sometimes+for+snacks!!!"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=My+debugging+skills+are+next+level+!!!"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=Ideas+hit+me+at+2am+more+than+emails+do!!!"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=4AF626&center=true&vCenter=true&width=1000&lines=Coffee+is+my+launch+fuel+!!!"/>
 </p>
 
 
