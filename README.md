@@ -51,10 +51,6 @@
 
 <!-- TOOLS & TECHNOLOGIES -->
 <h3 align="center">🛠️ Tools & Technologies 🛠️</h3>
-<p align="center">
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" /></a>
-  <a href="#"><img src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" /></a>
-</p>
 
 <!-- SPECIALIZED TOOLS -->
 <p align="center">
