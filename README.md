@@ -52,7 +52,7 @@
 <!-- TOOLS & TECHNOLOGIES -->
 <h3 align="center">🛠️ Tools & Technologies 🛠️</h3>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux,git,docker,mysql,Burpsuite,vim,Metasploit,Nmap,SHODAN,SQL Map,Wireshark,Splunk,Hydra,vscode&perline=8" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux,git,docker,mysql,Burpsuite,vim,Metasploit,Nmap,SHODAN,SQL Map,Wireshark,Splunk,vscode&perline=8" /></a>
 </p>
 
 <!-- SPECIALIZED TOOLS -->
